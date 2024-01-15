@@ -1,0 +1,2 @@
+Programa[[:space:]]V1.2/SN_estudio.exe filter=lfs diff=lfs merge=lfs -text
+codigo/build/Sistemas[[:space:]]Numericos/Sistemas[[:space:]]Numericos.pkg filter=lfs diff=lfs merge=lfs -text
